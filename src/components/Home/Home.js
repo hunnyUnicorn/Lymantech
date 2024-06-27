@@ -19,7 +19,7 @@ function Home() {
               </h1>
 
               <h1 className="heading-name">
-                We'r
+                We're
                 <strong className="main-name"> Daniel Andrei LLC</strong>
               </h1>
 
