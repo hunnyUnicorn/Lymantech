@@ -37,7 +37,7 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="#" target="_blank">
-          <MdDeveloperMode style={{ marginBottom: "2px" }} /> DANIELANDREILLC
+          <MdDeveloperMode style={{ marginBottom: "2px" }} /> DANIEL ANDREI
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
