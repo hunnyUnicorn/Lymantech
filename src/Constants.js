@@ -76,22 +76,22 @@ export const PROJECTS = [
 ];
 
 export const SKILLS = [
-  { name: "ReactJs", initialRating: 4 },
+  { name: "ReactJs", initialRating: 5 },
   { name: "React-Native", initialRating: 4 },
-  { name: "JavaScript", initialRating: 4 },
-  { name: "Redux", initialRating: 4 },
-  { name: "Shopify/Reactjs", initialRating: 4 },
-  { name: "Nodejs", initialRating: 3 },
+  { name: "JavaScript", initialRating: 5 },
+  { name: "Redux", initialRating: 5 },
+  { name: "Shopify/Reactjs", initialRating: 5 },
+  { name: "Nodejs", initialRating: 5 },
   { name: "Koajs", initialRating: 3 },
-  { name: "Html", initialRating: 4 },
-  { name: "CSS", initialRating: 4 },
-  { name: "Unit-Testing(Jest)", initialRating: 3 },
-  { name: "TypeScript", initialRating: 4 },
+  { name: "Html", initialRating: 5 },
+  { name: "CSS", initialRating: 5 },
+  { name: "Unit-Testing(Jest)", initialRating: 4 },
+  { name: "TypeScript", initialRating: 5 },
   { name: "Graphql", initialRating: 4 },
   { name: "Apollo", initialRating: 4 },
-  { name: "AntD | ReactStrap | Material UI", initialRating: 4 },
+  { name: "AntD | ReactStrap | Material UI", initialRating: 5 },
   { name: "Shopify Polaris", initialRating: 4 },
-  { name: "Git", initialRating: 4 },
+  { name: "Git", initialRating: 5 },
 ];
 
 export const TOOLS = ["Visual Studio Code", "Git", "Chrome DevTools", "Npm (Node Package Manager)", "Atom", "Sublime Text", "Linux", "Heroku", "Postman"]
