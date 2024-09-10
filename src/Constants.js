@@ -20,7 +20,7 @@ export const PROJECTS = [
   {
     image: TRAVELWELL,
     name: "travlwell.com",
-    technologyUsed: "Shopify, React, typescript, polaris, GraphQL",
+    technologyUsed: "Pythong, Django, Shopify, React, typescript, polaris, GraphQL",
     description: "Custom Luggage Tags and Passport Holders engraved with everywhere you've traveled and everywhere you will travel in the future.",
     url: "https://travlwell.com/",
   },
@@ -34,7 +34,7 @@ export const PROJECTS = [
   {
     image: AUTOMATION,
     name: "3automation.com (RPA)",
-    technologyUsed: "ReactJs, Typescript, Redux",
+    technologyUsed: "Java, Spring, ReactJs, Typescript, Redux",
     description: "The next-gen Robotic Process Automation (#RPA) platform for retail and telecom domains. The ultimate automation platform for your Shopify, Email, E- commerce shop",
     url: "https://www.3automation.com/",
   },
@@ -55,7 +55,7 @@ export const PROJECTS = [
   {
     image: HSP,
     name: "HSP (Health Solution Plus)",
-    technologyUsed: "ReactJs, Javascript, Redux",
+    technologyUsed: "Python, Django, Javascript, ReactJs, Redux, ",
     description: "This is a Healthcare sector project which would be developed as replica of a desktop application. Our responsibilities in this project are to develop UI, perform searching of medical codes and categories, addition/updation of codes and categories.",
     url: "",
   },
@@ -76,22 +76,20 @@ export const PROJECTS = [
 ];
 
 export const SKILLS = [
+  { name: "JavaScript", initialRating: 5 },
+  { name: "TypeScript", initialRating: 5 },
+  { name: "Python", initialRating: 5 },
+  { name: "Java", initialRating: 4 },
   { name: "ReactJs", initialRating: 5 },
   { name: "React-Native", initialRating: 4 },
-  { name: "JavaScript", initialRating: 5 },
-  { name: "Redux", initialRating: 5 },
   { name: "Shopify/Reactjs", initialRating: 5 },
   { name: "Nodejs", initialRating: 5 },
   { name: "Koajs", initialRating: 3 },
-  { name: "Html", initialRating: 5 },
-  { name: "CSS", initialRating: 5 },
+  { name: "Django", initialRating: 5 },
+  { name: "Flask", initialRating: 5 },
+  { name: "Spring", initialRating: 5 },
   { name: "Unit-Testing(Jest)", initialRating: 4 },
-  { name: "TypeScript", initialRating: 5 },
   { name: "Graphql", initialRating: 4 },
-  { name: "Apollo", initialRating: 4 },
-  { name: "AntD | ReactStrap | Material UI", initialRating: 5 },
-  { name: "Shopify Polaris", initialRating: 4 },
-  { name: "Git", initialRating: 5 },
 ];
 
-export const TOOLS = ["Visual Studio Code", "Git", "Chrome DevTools", "Npm (Node Package Manager)", "Atom", "Sublime Text", "Linux", "Heroku", "Postman"]
+export const TOOLS = ["Visual Studio Code", "Git", "Chrome DevTools", "Npm (Node Package Manager)", "Atom", "Sublime Text", "Linux", "Heroku", "Postman", "Prometheus", "Grafana"]

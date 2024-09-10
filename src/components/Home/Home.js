@@ -20,13 +20,12 @@ function Home() {
 
               <h1 className="heading-name">
                 We're
-                <strong className="main-name"> Daniel Andrei LLC</strong>
+                <strong className="main-name"> Lymantech LLC</strong>
               </h1>
 
               <p className="heading-description blockquote">
-                We are passionate about using Javascript and Animation Libraries
-                to create awesome user experiences. With over five years of
-                experience developing web applications using the latest
+                We are passionate about using Python, Javascript and Java
+                to create awesome user experiences. Developed dozens of web applications using the latest
                 front-end and back-end technologies.
               </p>
 
@@ -54,9 +53,9 @@ function Home() {
                 <strong>Feel free to connect with us</strong>
               </p>
               <div style={{display: 'grid', gridTemplateColumns: 'auto auto'}}>
-                <h3 style={{textAlign: 'right'}}>Email :</h3><h3 style={{textAlign: 'left'}}>&nbsp;danielandreillc@outlook.com</h3>
-                <h3 style={{textAlign: 'right'}}>Phone :</h3><h3 style={{textAlign: 'left'}}>&nbsp;+1 225 257 9389</h3>
-                <h3 style={{textAlign: 'right'}}>Address :</h3><h3 style={{textAlign: 'left'}}>&nbsp;760 EAST DR NUM R, BEAUMONT, TX, 77706</h3>
+                <h3 style={{textAlign: 'right'}}>Email :</h3><h3 style={{textAlign: 'left'}}>&nbsp;limanskaya.c@gmail.com</h3>
+                <h3 style={{textAlign: 'right'}}>Phone :</h3><h3 style={{textAlign: 'left'}}>&nbsp;+1 339 224 4011</h3>
+                <h3 style={{textAlign: 'right'}}>Address :</h3><h3 style={{textAlign: 'left'}}>&nbsp;1309 COFFEEN AVE STE 1200, SHERIDAN, WY, 82801</h3>
               </div>
               {/* <SocialMedia /> */}
             </Col>

@@ -7,12 +7,12 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, we are <span className="purple">Daniel Andrei LLC.</span>
+            Hi Everyone, we are <span className="purple">Lymantech LLC.</span>
             <br />
             We love to transform ideas into reality using code.
             <br />
             Motivated designer and developer with experience creating
-            custom websites with ReactJs, JavaScript, HTML5, CSS3. Shopify app using ReactJs, Javascript, Polaris, Graphql, nodejs, Koajs
+            custom websites with Nodejs, Pyhtong, Django, Java/Spring, React, Angular
             and Mobile App using React-native.
             <br />
             Apart from coding, some other activities that we love to do!
