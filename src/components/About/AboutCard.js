@@ -15,22 +15,7 @@ function AboutCard() {
             custom websites with Nodejs, Pyhtong, Django, Java/Spring, React, Angular
             and Mobile App using React-native.
             <br />
-            Apart from coding, some other activities that we love to do!
           </p>
-          <ul>
-            <li className="about-activity">
-              <ImPointRight /> Playing Games
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Travelling
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Watching Movies
-            </li>
-          </ul>
         </blockquote>
       </Card.Body>
     </Card>
